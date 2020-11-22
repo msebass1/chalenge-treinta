@@ -30,6 +30,7 @@ npm i - npm installnpm start#### Dependencias
 
 El proyecto se inicio con create react app. Para la realización de los estilos y el wireframing se usó 'material ui'. No se usaron estilos en Css. Se usó la solución de material de estilos en javascript o 'jss'. El login y registro corre en 'firebase authenticate'. Tambien se usó la librería 'google maps react' para el desarrollo de la página del mapa.
 
+
 ### Autor
 
 ---
