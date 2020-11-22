@@ -10,8 +10,8 @@ Puedes verla completa y probarla [acá](https://treinta-junior.web.app/)
 
 ### Preview
 ---
-[a](https://i.imgur.com/A7fVnl6.png)
-[b](https://i.imgur.com/Ah65eSH.png)
+![a](https://i.imgur.com/A7fVnl6.png)
+![b](https://i.imgur.com/Ah65eSH.png)
 
 
 ### Guía de instalación y ejecución
