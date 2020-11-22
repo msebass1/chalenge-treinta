@@ -27,15 +27,15 @@ export default function Mapa(){
 	</Box>
       </div>
     </Grid>
-    <Grid item sm={12} xs={12} className={classes.rootL}>
+    <Grid item sm={12} xs={12} className={classes.rootS}>
       <div className={classes.cont}>
 	<Box  mt={5} ml={1}>
 	  <Typography className={classes.hw} variant="h3">Treinta - ¡Aplicación financiera gratuita!</Typography>
 	</Box >
 	<Box mt={5}>
 	  <Typography className={classes.pr} variant="body1">
-	    Gestiona las transacciones de tu negocio,
-	    conoce la utilidad de tu negocio en cualquier momento y registra y cobra deudas 3 veces más eficazmente.
+	    Gestiona los negocios en bogotá,
+	    a continuacion veras 25 negocios aleatoreos que han decidido user Treinta.
 	  </Typography>
 	</Box>
 	<Box mt={5}>

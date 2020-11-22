@@ -6,6 +6,11 @@ const useStyles = makeStyles((theme)=>{
 
     height:'1000px'
   },
+  rootS: {
+    background: theme.bg.yellow,
+
+    height:'1200px'
+  },
   rootR:{
     background: '#FFF',
  
