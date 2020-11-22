@@ -22,7 +22,7 @@ Debes tener :
 
 -instalado node v12
 
--instalada una varsion compatible de npm o yarn
+-instalada una versión compatible de npm o yarn
 
 comandos :
 
